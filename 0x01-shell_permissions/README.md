@@ -12,4 +12,8 @@
 12. Wrote a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and to other users to file hello.
 13. Created a script that create a directory called my_dir with permissions 751 in the working directory.
 14. Wrote a script that changes the group owner to school for the file hello.
+15. Wrote a script that changes owner to vincent and the group owner to staff for all files and directories in working directory.
+16. A script that changes owner and group owner of _hello to vincent and staff.
+17. A script that changes owner of a file hello to betty only if it is owned by user guillaume.
+18. Wrote a script that will play StarWars IV in the terminal.
  
