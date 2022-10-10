@@ -21,3 +21,7 @@
 21. Created a script that removes all letters c and C from input.
 22. Wrote a script that reverse its input.
 23. Wrote a script that displays all users and their home directories, sorted by users on th /etc/passwd file.
+24. Write a command that finds all empty files and directories in the current directory and all sub-directories.
+25. Wrote a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+26. An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval.
+27. Wrote a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. 
