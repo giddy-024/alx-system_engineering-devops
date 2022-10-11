@@ -1,3 +1,5 @@
+# SHELL, INIT, VARIABLES AND EXPANSIONS
+
 1. We created a script that creates an alias.
 2. We created a script that prints hello user, where user is the current Linux user.
 3. We created a script that Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
